@@ -1,0 +1,24 @@
+{
+  "name": "agular fire",
+  "homepage": "https://github.com/estebansandoval22/fire-base",
+  "authors": [
+    "¨estebansandoval22¨ <¨esandovals@ucenfotec.ac.cr¨>"
+  ],
+  "description": "practice",
+  "main": "index.html",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-route": "^1.5.6",
+    "angular": "angularjs#^1.5.6",
+    "angular-resource": "^1.5.6",
+    "angularfire": "^2.0.1"
+  }
+}
